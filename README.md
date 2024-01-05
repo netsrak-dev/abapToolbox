@@ -3,7 +3,7 @@ abapToolbox: A collection of mini-applications simplifying daily tasks within SA
 
 ## Tools Provided
 
-### 1. Open Transaction in a New Mode with Different Language
+### 1. Open the transaction in a new mode with a different language
 
 **Description:**
 This tool allows you to open a transaction in a new mode with a different language setting, enhancing accessibility and ease of use.

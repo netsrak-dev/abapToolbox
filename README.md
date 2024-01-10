@@ -39,6 +39,22 @@ Inspired by Jeff Atwood's influential blog post "[Why Can't Programmers.. Progra
 
 </details>
 
+<details>
+<summary>3. ABAP Fibonacci Sequence Generator 🌀</summary>
+
+🔢 Generate the Fibonacci sequence in ABAP! This tool offers both iterative and recursive methods to compute the sequence up to a specified number.
+
+🔄 The iterative approach swiftly calculates the sequence by adding the two preceding numbers until reaching the desired value, ensuring optimal performance in ABAP.
+
+⏳ However, the recursive method faces challenges with larger numbers, causing longer execution times beyond 30 and overflow issues beyond 92 due to data type limitations.
+
+🛠️ Enhance performance by implementing memoization for the recursive method and optimizing data types to mitigate overflow problems with larger sequence numbers.
+
+🚀 Choose the best method based on your sequence number needs! Opt for the iterative approach for faster calculations with larger numbers and the recursive method for smaller values where time isn't a concern.
+
+Note: Exercise caution using the recursive method for larger numbers in this ABAP implementation. Implementing suggested improvements can boost functionality and performance across various sequence ranges.
+
+</details>
 ---
 
 **License:**

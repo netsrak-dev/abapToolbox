@@ -55,6 +55,32 @@ Inspired by Jeff Atwood's influential blog post "[Why Can't Programmers.. Progra
 Note: Exercise caution using the recursive method for larger numbers in this ABAP implementation. Implementing suggested improvements can boost functionality and performance across various sequence ranges.
 
 </details>
+
+<details>
+<summary>4. Project Euler Solutions in ABAP 🧮</summary>
+
+Welcome to my GitHub repository containing ABAP solutions for the Project Euler challenges! Project Euler is a series of challenging mathematical/computer programming problems designed to encourage problem-solving using code.
+
+**Progress** 🚀 
+
+Here's the list of problems I've currently solved:
+
+[Problem 1](/src/zcl_abaptb_projecteuler.clas.abap#L99): Multiples of 3 and 5
+
+[Problem 2](/src/zcl_abaptb_projecteuler.clas.abap#L126): Even Fibonacci numbers
+
+[Problem 3](/src/zcl_abaptb_projecteuler.clas.abap#L171): Largest prime factor
+
+[Problem 4](/src/zcl_abaptb_projecteuler.clas.abap#L243): Largest palindrome product
+
+[Problem 5](/src/zcl_abaptb_projecteuler.clas.abap#L335): Smallest multiple
+
+[Problem 6](/src/zcl_abaptb_projecteuler.clas.abap#L369): Sum square difference
+
+[Problem 7](/src/zcl_abaptb_projecteuler.clas.abap#L412): 10,001st prime
+
+Feel free to explore the solutions, provide feedback, or contribute your own solutions!
+</details>
 ---
 
 **License:**

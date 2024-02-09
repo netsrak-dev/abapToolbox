@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_ABAPTB_PROJECTEULER</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>ProjectEuler.net - Practice problems</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <WITH_UNIT_TESTS>X</WITH_UNIT_TESTS>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>GT_GCD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Greatest Common Divisor (GCD)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P001_MULTIPLES_OF_3_OR_5</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Multiples of 3 or 5</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P002_EVEN_FIBONACCI_NUMBERS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Even Fibonacci Numbers</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P003_DIVISOR_GET</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Largest Prime Factor - Divisor get</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P003_LARGEST_PRIME_FACTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Largest Prime Factor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P003_RECURSIVE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Largest Prime Factor - Recrusive call</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P003_RESULT_GET</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Largest Prime Factor - Rersult get</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P003_RESULT_SET</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Largest Prime Factor - Rersult set</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P004_LARGEST_PALINDROME_PROD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Largest Palindrome Product</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P004_NUMBERS_LENGTH</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Largest Palindrome Product - Numbers length</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P005_GCD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Smallest Multiple - The greatest common divisor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P005_LCM</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Smallest Multiple - The least common multiple</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P005_SMALLEST_MULTIPLE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Smallest Multiple</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P006_SUM_SQUARE_DIFFERENCE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Sum Square Difference</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P007_10001ST_PRIME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>10001st Prime</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>P007_IS_PRIME_NUMBER</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>10001st Prime - Determine prime number</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>TT_GCD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Greatest Common Divisor (GCD)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>TY_GCD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Greatest Common Divisor (GCD)</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>P003_DIVISOR_GET</CMPNAME>
+     <SCONAME>RESULT</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Greatest Common Divisor (GCD)</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>P003_LARGEST_PRIME_FACTOR</CMPNAME>
+     <SCONAME>GCD</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Greatest Common Divisor (GCD)</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

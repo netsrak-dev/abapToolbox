@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_ABAPTB_BADI</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Overview BAdI Implementation</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <TPOOL>
+    <item>
+     <ID>I</ID>
+     <KEY>001</KEY>
+     <ENTRY>Overview BAdi Implementation</ENTRY>
+     <LENGTH>31</LENGTH>
+    </item>
+   </TPOOL>
+   <I18N_TPOOL>
+    <item>
+     <LANGUAGE>D</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Übersicht BAdi-Implementierung</ENTRY>
+       <LENGTH>31</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+   </I18N_TPOOL>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>GC_COLUMN_NAME_EXIT_NAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ALV control: Field name of internal table field</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GC_COLUMN_NAME_IMP_CLASS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ALV control: Field name of internal table field</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GC_COLUMN_NAME_IMP_NAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ALV control: Field name of internal table field</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GC_COLUMN_NAME_INTERFACE_NAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ALV control: Field name of internal table field</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>LIST_BADI_IMPLEMENTATION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Overview BAdI Implementation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>ON_LINK_CLICK</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Link click event</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>OPEN_BADI</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Open BAdI</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>OPEN_CLASS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Open Calss</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>OPEN_ENHANCEMENRT_IMPL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Open Enhancemenrt Implementation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>READ_BADI_IMPLEMENTATION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Read BAdI Implementation</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>LIST_BADI_IMPLEMENTATION</CMPNAME>
+     <SCONAME>ZCX_ABAPTB_BADI</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Excpetion Class for BAdI Implementation</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>OPEN_BADI</CMPNAME>
+     <SCONAME>IV_BADI_NAME</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Business Add-In Definition</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>OPEN_BADI</CMPNAME>
+     <SCONAME>IV_TCODE</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Transaction Code</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>OPEN_CLASS</CMPNAME>
+     <SCONAME>IV_CLASS_NAME</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Object Type Name</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>OPEN_CLASS</CMPNAME>
+     <SCONAME>IV_TCODE</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Transaction Code</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>OPEN_ENHANCEMENRT_IMPL</CMPNAME>
+     <SCONAME>IV_ENH_BADI_IMPL</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Business Add-In Implementation</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>OPEN_ENHANCEMENRT_IMPL</CMPNAME>
+     <SCONAME>IV_TCODE</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Transaction Code</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

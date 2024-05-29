@@ -81,6 +81,24 @@ Here's the list of problems I've currently solved:
 
 Feel free to explore the solutions, provide feedback, or contribute your own solutions!
 </details>
+
+<details>
+<summary>5. ABAP Class for Displaying Implemented BAdIs 📄</summary>
+
+This ABAP class provides a simple and efficient way to list and navigate through the BAdI implementations in your SAP system.
+
+**Features**
+**List BAdI Implementations**
+  - Execute the [LIST_BADI_IMPLEMENTATION method](https://github.com/netsrak-dev/abapToolbox/blob/98e712b1b597c48a62fe986833afce83fcdc103f/src/zcl_abaptb_badi.clas.abap#L54) to retrieve and display all implemented BAdIs in a SAP List Viewer (SALV) format. 🗂️
+
+**Direct Navigation**
+  - Utilize hot spots for quick navigation to:
+  - BAdI Interface 🔍
+  - Implemented Class 🏷️
+  - Enhancement Implementation ⚙️
+  - BAdI Definition 📘
+
+</details>
 ---
 
 **License:**
